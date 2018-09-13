@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ZJM&#39;Blog</title>
+  
+  <subtitle>To strive, to seek, to find, and not to yield.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://zhangjunmincool.github.io/"/>
+  <updated>2018-09-13T23:24:49.891Z</updated>
+  <id>https://zhangjunmincool.github.io/</id>
+  
+  <author>
+    <name>ZhangJM</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>淘宝开店前准备</title>
+    <link href="https://zhangjunmincool.github.io/2018/09/14/%E6%B7%98%E5%AE%9D%E5%BC%80%E5%BA%97%E5%89%8D%E5%87%86%E5%A4%87/"/>
+    <id>https://zhangjunmincool.github.io/2018/09/14/淘宝开店前准备/</id>
+    <published>2018-09-13T23:13:45.000Z</published>
+    <updated>2018-09-13T23:24:49.891Z</updated>
+    
+    <content type="html"><![CDATA[<p>1.一个身份证只能开一家店，开店后无法注销，伸请到正式开通预计需要1~3个工作日。<br>   <a href="https://helpcenter.taobao.com/learn/category?id=5879" target="_blank" rel="noopener">卖家规则</a></p><p>2.个人店铺就是通过支付宝个人实名认证的商家创建的店铺，就是个人店铺。</p><p>   企业店铺就就是通过支付宝企业实名认证的商家创建的店铺，就是企业店铺。</p><p>3.可以使用他人的身份证开店，并且将店铺转让给他人，但是所引发的问题与淘宝无关。</p><p>   身份证如果被强行注销，吊销，那么店铺就会被淘宝强制关闭。</p><p>4.开店要进行支付宝实名认证和淘宝开店认证，一般准备好身份证和银行卡以及手机卡就好了，具体操作有淘宝引导。</p><p>5.仔细阅读开店四大协议。</p><p>6.主动向你索要保证金的都是骗子</p><p>   淘宝在任何情况下都是不会使用QQ和你联系的。</p><p>   卖家可自由选择是否立即缴纳保证金，缴纳保证金在卖家中心有指定入口。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;1.一个身份证只能开一家店，开店后无法注销，伸请到正式开通预计需要1~3个工作日。&lt;br&gt;   &lt;a href=&quot;https://helpcenter.taobao.com/learn/category?id=5879&quot; target=&quot;_blank&quot; rel=&quot;noope
+      
+    
+    </summary>
+    
+      <category term="电商" scheme="https://zhangjunmincool.github.io/categories/%E7%94%B5%E5%95%86/"/>
+    
+    
+      <category term="淘宝" scheme="https://zhangjunmincool.github.io/tags/%E6%B7%98%E5%AE%9D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://zhangjunmincool.github.io/2018/08/22/hello-world/"/>
+    <id>https://zhangjunmincool.github.io/2018/08/22/hello-world/</id>
+    <published>2018-08-22T13:30:50.034Z</published>
+    <updated>2018-08-22T16:27:10.059Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+      <category term="Hexo" scheme="https://zhangjunmincool.github.io/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="https://zhangjunmincool.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+</feed>

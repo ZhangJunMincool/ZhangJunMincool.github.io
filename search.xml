@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[淘宝开店前准备]]></title>
+    <url>%2F2018%2F09%2F14%2F%E6%B7%98%E5%AE%9D%E5%BC%80%E5%BA%97%E5%89%8D%E5%87%86%E5%A4%87%2F</url>
+    <content type="text"><![CDATA[1.一个身份证只能开一家店，开店后无法注销，伸请到正式开通预计需要1~3个工作日。 卖家规则 2.个人店铺就是通过支付宝个人实名认证的商家创建的店铺，就是个人店铺。 企业店铺就就是通过支付宝企业实名认证的商家创建的店铺，就是企业店铺。 3.可以使用他人的身份证开店，并且将店铺转让给他人，但是所引发的问题与淘宝无关。 身份证如果被强行注销，吊销，那么店铺就会被淘宝强制关闭。 4.开店要进行支付宝实名认证和淘宝开店认证，一般准备好身份证和银行卡以及手机卡就好了，具体操作有淘宝引导。 5.仔细阅读开店四大协议。 6.主动向你索要保证金的都是骗子 淘宝在任何情况下都是不会使用QQ和你联系的。 卖家可自由选择是否立即缴纳保证金，缴纳保证金在卖家中心有指定入口。]]></content>
+      <categories>
+        <category>电商</category>
+      </categories>
+      <tags>
+        <tag>淘宝</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F08%2F22%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+</search>
